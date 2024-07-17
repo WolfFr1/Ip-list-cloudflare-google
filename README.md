@@ -1,3 +1,3 @@
-This Repo containe list from 5000+
+This Repo is containing list of 5000+ Ips from
 Cloudflare / Google & Other services
 that sended me requests
