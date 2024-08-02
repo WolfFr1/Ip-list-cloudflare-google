@@ -1,3 +1,7 @@
-This Repo is containing list of 24000+ Ip's from
+This Repo is containing list of 24000+ Ip's From
 Cloudflare / Google & Other services
-that sended me requests
+That Sended Me Requests
+
+For Legal Reason Thoses Ip Are Not
+Personal Ip's Since Every Requests Are Secured
+& Proxied By Cloudflare
