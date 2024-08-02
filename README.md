@@ -4,4 +4,4 @@ That Sended Me Requests
 
 For Legal Reason Thoses Ip Are Not
 Personal Ip's Since Every Requests Are Secured
-& Proxied By Cloudflare
+& Proxied By Cloudflare End To End
